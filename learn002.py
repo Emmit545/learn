@@ -1,3 +1,6 @@
+"""
+生成杨辉三角
+"""
 def generate_pascals_triangle(n):
     if n <= 0:
         return []
