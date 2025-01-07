@@ -1,3 +1,6 @@
+"""
+计算字符串中的字母和数字个数
+"""
 def count_letters_and_digits(s):
     letter_count = 0
     digit_count = 0
